@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "923908656702",
+    "firebase_url": "https://fir-feo.firebaseio.com",
+    "project_id": "fir-feo",
+    "storage_bucket": "fir-feo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923908656702:android:49e1896fdc7b70e2a30b6f",
+        "android_client_info": {
+          "package_name": "com.interfaz.hardel.pruebarapida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923908656702-ldj2cp94ko3e7kbv8i29mpffitg7tn4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.interfaz.hardel.pruebarapida",
+            "certificate_hash": "9e12262bdaf1aa3d9d5795a8241907d6eed2c32f"
+          }
+        },
+        {
+          "client_id": "923908656702-d8sj70ob7dvvk869v1ap0a9tl3ome6nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHIGnin_i2mUhZo9aAWCLhGYagYHT7POY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923908656702-d8sj70ob7dvvk869v1ap0a9tl3ome6nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
